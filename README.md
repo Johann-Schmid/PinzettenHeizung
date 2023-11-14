@@ -4,4 +4,8 @@ Concept & Schematic of the pinzettenHeizung
 <br>
 <img src="IMG_8964-2.jpg" alt="Image" width="500"/>
 <br>
-[![PDF Preview](schaltplan.png)](Schaltplan.pdf)
+<a href="Schaltplan.pdf" target="_blank">
+    <img src="schaltplan.png" alt="PDF Preview">
+</a>
+
+[![PDF Preview]()](Schaltplan.pdf)
